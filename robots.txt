@@ -2,3 +2,8 @@ User-agent: *
 Disallow:
 
 Sitemap: https://annalya-github.github.io/CosmetologistSpbKomendantskiy/sitemap.xml
+
+User-agent: Yandex
+Disallow:
+
+Host: annalya-github.github.io/CosmetologistSpbKomendantskiy
